@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - Business Process Mapping 
 -  Industry-specific Use Case Analysis 
 -  AppExchange Exploration
-  <a href="docs/phase1.pdf" target="_blank">
+  <a href="phase1.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
 </a>
 

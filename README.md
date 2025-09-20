@@ -6,9 +6,6 @@ ________________________________________________________________________________
 - Business Process Mapping 
 -  Industry-specific Use Case Analysis 
 -  AppExchange Exploration
-[![View Project PDF](https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](phase1.pdf)
-
-
 _______________________________________________________________________________________________
 ## Phase 2: Org Setup & Configuration 
 - Salesforce Editions 

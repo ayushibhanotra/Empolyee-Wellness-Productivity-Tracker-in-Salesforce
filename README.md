@@ -5,7 +5,11 @@ ________________________________________________________________________________
 - Stakeholder Analysis 
 - Business Process Mapping 
 -  Industry-specific Use Case Analysis 
--  AppExchange Exploration 
+-  AppExchange Exploration
+  <a href="docs/phase1.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+
 _______________________________________________________________________________________________
 ## Phase 2: Org Setup & Configuration 
 - Salesforce Editions 

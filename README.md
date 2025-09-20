@@ -63,21 +63,24 @@ employee-wellness-productivity-tracker/
 │
 ├── force-app/                   # Salesforce Metadata
 
-│   ├── main/default/objects/    # Custom Objects & Fields
+│ ├── main/default/objects/    # Custom Objects & Fields
 
-│   ├── main/default/flows/      # Automation Flows
+│ ├── main/default/flows/      # Automation Flows
 
-│   ├── main/default/reports/    # Reports & Dashboards
+│ ├── main/default/reports/    # Reports & Dashboards
 
 │
+
 ├── docs/                        # Documentation & Screenshots
 
-│   ├── data-model.png
+│ ├── data-model.png
 
-│   ├── dashboard-sample.png
+│ ├── dashboard-sample.png
 
-│   └── workflow.png
+│ └── workflow.png
+
 │
+
 ├── scripts/                     # Apex/Soql scripts for testing
 │
 ├── README.md                    # Project Overview

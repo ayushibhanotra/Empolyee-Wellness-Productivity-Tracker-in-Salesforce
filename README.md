@@ -1,4 +1,4 @@
-# EMPLOYEE WELLNESS PRODUCTIVITY TRACKER
+#Project Title: Employee Wellness & Productivity Tracker
 _______________________________________________________________________________________________
 # 🚀Overview
 

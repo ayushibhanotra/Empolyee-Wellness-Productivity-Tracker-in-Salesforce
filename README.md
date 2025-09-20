@@ -61,6 +61,7 @@ ________________________________________________________________________________
 employee-wellness-productivity-tracker/
 
 │
+
 ├── force-app/                   # Salesforce Metadata
 
 │ ├── main/default/objects/    # Custom Objects & Fields
@@ -82,7 +83,10 @@ employee-wellness-productivity-tracker/
 │
 
 ├── scripts/                     # Apex/Soql scripts for testing
+
 │
+
 ├── README.md                    # Project Overview
+
 └── Wellness_Project.docx        # Detailed Phase-wise Documentation
 _______________________________________________________________________________________________

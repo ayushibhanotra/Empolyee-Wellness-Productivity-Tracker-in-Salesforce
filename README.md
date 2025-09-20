@@ -3,6 +3,7 @@ ________________________________________________________________________________
 # Problem Statement
 
 Employee well-being has a direct impact on productivity, retention, and overall organizational success. However, most organizations face challenges in effectively monitoring wellness and productivity due to:
+
 → Disconnected HR systems and data silos.
 
 → Limited visibility into employee stress, engagement, and burnout.

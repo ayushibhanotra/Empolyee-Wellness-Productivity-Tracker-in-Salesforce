@@ -7,7 +7,7 @@ ________________________________________________________________________________
 -  Industry-specific Use Case Analysis 
 -  AppExchange Exploration
   
-[![View Project PDF](https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](phase1.pdf)
+[![View Project PDF](https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](Phase1.pdf)
 
 
 _______________________________________________________________________________________________

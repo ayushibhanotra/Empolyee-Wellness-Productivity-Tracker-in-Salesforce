@@ -30,3 +30,14 @@ ________________________________________________________________________________
 [![View Project PDF](https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](Phase2.pdf)
 
 _______________________________________________________________________________________________
+## Phase 3: Data Modeling & Relationships
+- Standard & Custom Objects
+- Fields
+- Record Types
+- Page Layouts
+- Compact Layouts
+- Schema Builder
+- Lookup vs Master-Detail vs Hierarchical Relationships
+- Junction Objects
+- External Objects 
+

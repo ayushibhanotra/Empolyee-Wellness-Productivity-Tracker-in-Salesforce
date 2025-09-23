@@ -19,7 +19,11 @@ ________________________________________________________________________________
 - User Setup & Licenses 
 - Profiles 
 - Roles 
-- Permission Sets : will decided as devlop furthur
-- OWD 
+- Permission Sets 
+- OWD
+- Sharing Rules 
 - Login Access Policies
+- Dev Org Setup
+- Sandbox Usage
+- Deployment Basics
 _______________________________________________________________________________________________

@@ -39,5 +39,9 @@ ________________________________________________________________________________
 - Schema Builder
 - Lookup vs Master-Detail vs Hierarchical Relationships
 - Junction Objects
-- External Objects 
+- External Objects
+
+[![View Project PDF](https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](Phase3.pdf)
+
+  
 

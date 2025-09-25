@@ -57,5 +57,82 @@ ________________________________________________________________________________
 
 [![View Project PDF](https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](Phase4.pdf)
 
+_______________________________________________________________________________________________
+## Phase 5: Apex Programming (Developer)
+Classes & Objects
+Apex Triggers (before/after insert/update/delete)
+Trigger Design Pattern
+SOQL & SOSL
+Collections: List, Set, Map
+Control Statements
+Batch Apex
+Queueable Apex
+Scheduled Apex
+Future Methods
+Exception Handling
+Test Classes
+Asynchronous Processing
+
+______________________________________________________________________________________________
+## Phase 6: User Interface Development
+Lightning App Builder
+Record Pages
+Tabs
+Home Page Layouts
+Utility Bar
+LWC (Lightning Web Components)
+Apex with LWC
+Events in LWC
+Wire Adapters
+Imperative Apex Calls
+Navigation Service
+_______________________________________________________________________________________________
+## Phase 7: Integration & External Access
+Named Credentials
+External Services
+Web Services (REST/SOAP)
+Callouts
+Platform Events
+Change Data Capture
+Salesforce Connect
+API Limits
+OAuth & Authentication
+Remote Site Settings
+_______________________________________________________________________________________________
+## Phase 8: Data Management & Deployment
+Data Import Wizard
+Data Loader
+Duplicate Rules
+Data Export & Backup
+Change Sets
+Unmanaged vs Managed Packages
+ANT Migration Tool
+VS Code & SFDX
+
+_______________________________________________________________________________________________
+## Phase 9: Reporting, Dashboards & Security Review
+Reports (Tabular, Summary, Matrix, Joined)
+Report Types
+Dashboards
+Dynamic Dashboards
+Profiles
+Roles
+Users
+Permission Sets
+OWD
+Sharing Rules
+Sharing Settings
+Field Level Security
+Session Settings
+Login IP Ranges
+Audit Trail
+_______________________________________________________________________________________________
+## Phase 10: Quality Assurance Testing
+
+_______________________________________________________________________________________________
+
+
+
+
   
 

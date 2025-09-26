@@ -117,6 +117,7 @@ ________________________________________________________________________________
 - ANT Migration Tool
 - VS Code & SFDX
 
+[![View Project PDF](https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](Phase8.pdf)
 _______________________________________________________________________________________________
 ## Phase 9: Reporting, Dashboards & Security Review
 - Reports (Tabular, Summary, Matrix, Joined)

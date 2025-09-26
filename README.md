@@ -88,6 +88,9 @@ ________________________________________________________________________________
 - Wire Adapters
 - Imperative Apex Calls
 - Navigation Service
+
+[![View Project PDF](https://img.shields.io/badge/View%20Project%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](Phase6.pdf)
+
 _______________________________________________________________________________________________
 ## Phase 7: Integration & External Access
 - Named Credentials
